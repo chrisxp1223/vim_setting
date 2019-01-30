@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/chrome/chrome/release-R61-9765.B/src/third_party/autotest/files'
+let g:netrw_dirhist_2='/home/chrome/chrome/chrome_tot/src/third_party/autotest/files/test_suites'
+let g:netrw_dirhist_3='/home/chrome/.gconf'
